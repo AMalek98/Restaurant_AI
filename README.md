@@ -110,3 +110,9 @@ Orders are persisted through:
 - PostgreSQL integration with normalized tables
 - Transaction management with proper rollback handling
 
+### Installation
+
+```bash
+git clone https://github.com/AMalek98/Restaurant_AI.git
+pip install -r requirements.txt
+
